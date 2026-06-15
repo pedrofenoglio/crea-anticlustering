@@ -1,6 +1,0 @@
-Flask
-numpy
-pandas
-plotly
-umap-learn
-scikit-learn
